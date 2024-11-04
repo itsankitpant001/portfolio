@@ -190,7 +190,8 @@ function App() {
   </p>
   <div className="flex flex-col items-center mb-8 border-t-4 border-teal-600 pt-4">
     <a href="mailto:akash.barthwal@example.com" className="text-teal-500 font-semibold hover:text-teal-700 text-xl mb-2 transition-colors duration-300 flex items-center">
-    <IoMdMail className="w-8 h-8" />akash.barthwal@example.com
+    <IoMdMail className="w-8 h-8" />
+    abarthwal912@gmail.com
     </a>
     <p className="text-2xl font-semibold text-teal-700 mb-2">
       <span role="img" aria-label="phone">📞</span> +91 72485 49647
